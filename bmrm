@@ -1,2 +1,3 @@
 #!/bin/sh
-sed "${1}d" ~/.bookmarks/bookmarks > ~/.bookmarks/bookmarks
+sed "${1}d" ~/.bookmarks/bookmarks > ~/.bookmarks/bookmarks.tmp
+cat ~/.bookmarks/bookmarks.tmp > ~/.bookmarks/bookmarks
