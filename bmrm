@@ -1,3 +1,5 @@
 #!/bin/sh
-sed "${1}d" ~/.bookmarks/bookmarks > ~/.bookmarks/bookmarks.tmp
-cat ~/.bookmarks/bookmarks.tmp > ~/.bookmarks/bookmarks
+if [ $# -ge 1 ];then
+  sed "${1}d" ~/.bookmarks/bookmarks > ~/.bookmarks/bookmarks.tmp
+  cat ~/.bookmarks/bookmarks.tmp > ~/.bookmarks/bookmarks
+fi
