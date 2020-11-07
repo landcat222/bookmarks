@@ -1,2 +1,3 @@
 #!/bin/sh
 cd `cat ~/.bookmarks/bookmarks | sed -n ${1}P`
+sh
