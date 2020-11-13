@@ -1,4 +1,4 @@
 #!/bin/sh
 test $# -ge 1 || exit 1
-  sed "${1}d" ~/.bookmarks/bookmarks > ~/.bookmarks/bookmarks.tmp
-  cat ~/.bookmarks/bookmarks.tmp > ~/.bookmarks/bookmarks
+sed "${1}d" ~/.bookmarks/bookmarks > ~/.bookmarks/bookmarks.tmp
+cat ~/.bookmarks/bookmarks.tmp > ~/.bookmarks/bookmarks
