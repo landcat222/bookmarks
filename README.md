@@ -1,8 +1,8 @@
-# Repository Name
-One line description for this repository
+# Bookmarks
+Bookmarks is shell-independent book marker
 
 ## Menu
-1. [Repository Name](#repository-name)
+1. [Bookmarks](#bookmarks)
 1. [Menu](#menu)
 1. [Overview](#overview)
 1. [Requirement](#requirement)
