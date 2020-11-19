@@ -17,7 +17,8 @@ Bookmarks is shell-independent book marker
 1. [References](#references)
 
 ## Overview
-Repository overview and DEMO
+Bookmarks is shell-independent book marker  
+Unlike [bashmarks](https://github.com/huyng/bashmarks), it can be executed other than bash
 
 ## Requirement
 Repository dependencies
