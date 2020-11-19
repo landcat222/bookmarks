@@ -19,10 +19,10 @@ Unlike [bashmarks](https://github.com/huyng/bashmarks), it can be executed other
 
 ## Installing
 ### Windows
-Not applicable
+Not applicable  
 You may be able to use it with WSL
 ### MacOS
-Unconfirmed
+Unconfirmed  
 [Please confirm and report to someone](https://github.com/landcat222/bookmarks/issues)
 ### Linux
 You can use it by executing the command below
@@ -31,7 +31,7 @@ git clone https://github.com/landcat222/bookmarks.git
 cd bookmarks
 ./setup.sh >> ~/.bashrc
 ```
-For the `.bashrc` part, specify the configuration file of your favorite shell
+For the `.bashrc` part, specify the configuration file of your favorite shell  
 If the path does not path to `~/.local/bin`, please descrive
 ```
 PATH="${PATH}:[userdirectory]/.local/bin
