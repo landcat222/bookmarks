@@ -20,9 +20,6 @@ Bookmarks is shell-independent book marker
 Bookmarks is shell-independent book marker  
 Unlike [bashmarks](https://github.com/huyng/bashmarks), it can be executed other than bash
 
-## Requirement
-Repository dependencies
-
 ## Installing
 How to install the repository
 ### Windows
@@ -32,15 +29,9 @@ How to install the repository
 ## Usage
 How to use the repository
 
-## Notes
-Precautions etc.
-
 ## Author
 <a href="https://github.com/landcat222"><img src="https://github.com/landcat222.png" width="32px"></a>  
 Questions and requests are accepted in [issues](https://github.com/landcat222/README.md_template/issues)
 
 ## License
 [License link](LICENSE)
-
-## References
-Reference materials, etc.
