@@ -39,7 +39,28 @@ PATH="${PATH}:[userdirectory]/.local/bin"
 in the configuration file
 
 ## Usage
-How to use the repository
+To get started, first run `bmreg`
+### Command
+#### bmreg
+```
+bmreg
+```
+`bmreg` is a command to bookmark the current directory
+#### bmls
+```
+bmls
+```
+`bmls` is a command to list the registered directories
+#### bmcd
+```
+bmcd [number]
+```
+`bmcd` is a command to go to the `[number]`th displayed path in `bmls`
+#### bmrm
+```
+bmrm [number]
+```
+`bmrm` is a command to remove the `[number]`th path displayed in `bmls` from bookmarks
 
 ## Author
 <a href="https://github.com/landcat222"><img src="https://github.com/landcat222.png" width="32px"></a>  
