@@ -34,7 +34,7 @@ cd bookmarks
 For the `.bashrc` part, specify the configuration file of your favorite shell  
 If the path does not path to `~/.local/bin`, please descrive
 ```
-PATH="${PATH}:[userdirectory]/.local/bin
+PATH="${PATH}:[userdirectory]/.local/bin"
 ```
 in the configuration file
 
