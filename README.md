@@ -5,16 +5,13 @@ Bookmarks is shell-independent book marker
 1. [Bookmarks](#bookmarks)
 1. [Menu](#menu)
 1. [Overview](#overview)
-1. [Requirement](#requirement)
 1. [Installing](#installing)
     - [Windows](#windows)
     - [MacOS](#macos)
     - [Linux](#linux)
 1. [Usage](#usage)
-1. [Notes](#notes)
 1. [Author](#author)
 1. [License](#license)
-1. [References](#references)
 
 ## Overview
 Bookmarks is shell-independent book marker  
