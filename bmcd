@@ -1,2 +1,2 @@
 #!/bin/sh
-cd `cat ~/.bookmarks/bookmarks | sed -n ${1}P`
+cd `cat ~/.bookmarks/bookmarks | grep $1 | head -n 1`
